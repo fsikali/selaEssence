@@ -1,1 +1,1 @@
-# Sela Essence Ecommerce Applicaton
+# Sela Essence
